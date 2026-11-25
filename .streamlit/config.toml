@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#2563EB"
+base = "light"
+font = "sans serif"
+
+[server]
+headless = true
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
